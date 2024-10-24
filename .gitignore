@@ -24,4 +24,4 @@ pnpm-debug.log*
 .idea/
 
 # images
-.public/images
+public/images
